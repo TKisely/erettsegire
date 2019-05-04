@@ -1,2 +1,2 @@
-# erettsegire
-Végső gyűjtemény az érettségire való készüléshez
+# Érettségire való készőléshez
+//Végső gyűjtemény az érettségire való készüléshez//
