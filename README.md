@@ -1,4 +1,4 @@
-# Érettségire való készőléshez
+# Érettségire való készüléshez
 >Végső gyűjtemény az érettségire való készüléshez
 
 ## Programozás
