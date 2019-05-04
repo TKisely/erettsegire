@@ -32,3 +32,11 @@ Tudjuk, hogy a nevet szövegként, az életkort és a megtett távot egész szá
 
 >A változók neveit érdemes úgy megválasztani, hogy rövidek, de egyértelműek legyenek, tehát ne int a és int b legyen, de azért nem kell túlzásokba sem esni, mint string aversenyenresztvettfutoneve
 
+Ha már tudjuk, hogy mit szeretnénk tárolni, akkor létre is hozhatjuk a két szükséges **konstruktor**unkat:
+- Egyet, ami minden szükséges adatot bekér **paraméter**ként, és 
+- egyet, amit üresen hagyunk
+>TODO: Ide kerül egy kép a végleges osztályról
+
+Mivel a versenyen nem csak egy futó vett részt, sőt, igazából előre nem tudjuk pontosan, hogy hány futónk lesz, így egy olyan tárolóra lesz szükségünk, melyet dinamukusan tudunk növelni.
+Erre mi a **vector**t tanultuk.
+Legegyszerubb talán úgy elnevezni (mivel az osztályunk neve Futo, hisz egy példánya egy darab futó adatait tartalmazza), mivel futókat fog tartalazni, hogy **futok**.
