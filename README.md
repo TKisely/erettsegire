@@ -45,3 +45,7 @@ Ezek után eltárolom a feladatban meghatározott elválaszót/elválasztókat, 
 >Ezeket minden esetben **const**ként tárolom, nehogy véletlen módositsam a későbbiekben.
 
 Ha ezekkel megvagyok, akkor elkezdhetem feltölteni a vectoromat, vagyis elkezdhetem kiolvasni a megadott fájlból az adatokat.
+Ennek első lépése, hogy megpróbálom megnyitni a fájlt. Ha sikerült, akkor létrehozok ideiglenes változókat a tárolandó adatoknak megfelelően. 
+>Ugye nekünk most el kell tárolnunk egy nevet egy kort és egy távot, tehát pontosan azokat, amiket az osztályban látunk
+
+>TODO: Kép az ideglenes változókról és a fájl megnyitásáról
