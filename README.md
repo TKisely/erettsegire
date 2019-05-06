@@ -11,6 +11,8 @@ Válasszuk ki a C++ nyelvet, azon belül pedig a **...Wizzard** opciót.
 Szedjük ki a megfelelő pipákat a nem szükséges helyekről, majd hozzuk létre a projektet.
 >TODO: Ide egy Kép fog bekerülni
 
+### Fájl beolvasása
+
 Ekkor egy szinte üres **main függvényt** kell látnunk.
 >Ehhez első körben nem kell nyúlnunk
 
@@ -63,4 +65,6 @@ Ezt követően egy ciklus segitségével bejárjuk a fájlunkat:
  
  >TODO: Kép a bontásról
  
+ Utolsó lépésünk a beolvasásnál, hogy zárjuk a fájlunkat.
  
+ ### Tárolt adatok kiértékelése
