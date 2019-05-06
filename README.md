@@ -1,5 +1,6 @@
 # Érettségire való készüléshez
 >Végső gyűjtemény az érettségire való készüléshez
+>Mindenképp tessék ezt is nézni: https://github.com/TKisely/szivcodes/blob/master/bontottFajlFelDolg.cpp
 
 ## Programozás
 
