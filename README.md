@@ -41,6 +41,7 @@ Mivel a versenyen nem csak egy futó vett részt, sőt, igazából előre nem tu
 Erre mi a **vector**t tanultuk.
 Legegyszerubb talán úgy elnevezni (mivel az osztályunk neve Futo, hisz egy példánya egy darab futó adatait tartalmazza), mivel futókat fog tartalazni, hogy **futok**.
 
-Ezek után eltárolom a feladatban meghatározott elválaszót/elválasztókat, jelen esetben ez a **TAB** karakter lesz, majd pedig eltárolom a meghatározott fájlnevet. Ezeket minden esetben **const**ként tárolom, nehogy véletlen módositsam a későbbiekben.
+Ezek után eltárolom a feladatban meghatározott elválaszót/elválasztókat, jelen esetben ez a **TAB** karakter lesz, majd pedig eltárolom a meghatározott fájlnevet. 
+>Ezeket minden esetben **const**ként tárolom, nehogy véletlen módositsam a későbbiekben.
 
 Ha ezekkel megvagyok, akkor elkezdhetem feltölteni a vectoromat, vagyis elkezdhetem kiolvasni a megadott fájlból az adatokat.
