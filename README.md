@@ -80,3 +80,10 @@ Ezt követően egy ciklus segitségével bejárjuk a fájlunkat:
 #### Összeg
 
 #### Rendezés
+
+## Hálózati ismeretek - gyakotlat
+### Kapcsolási ábra
+
+### Szükséges modulok elhelyezése
+
+### Portok kezelése a konzolos felületen
