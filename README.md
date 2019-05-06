@@ -68,3 +68,12 @@ Ezt követően egy ciklus segitségével bejárjuk a fájlunkat:
  Utolsó lépésünk a beolvasásnál, hogy zárjuk a fájlunkat.
  
  ### Tárolt adatok kiértékelése
+#### Maximum 
+
+#### Minimum
+
+#### Átlag
+
+#### Összeg
+
+#### Rendezés
