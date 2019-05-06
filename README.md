@@ -49,3 +49,18 @@ Ennek első lépése, hogy megpróbálom megnyitni a fájlt. Ha sikerült, akkor
 >Ugye nekünk most el kell tárolnunk egy nevet egy kort és egy távot, tehát pontosan azokat, amiket az osztályban látunk
 
 >TODO: Kép az ideglenes változókról és a fájl megnyitásáról
+
+Ezt követően egy ciklus segitségével bejárjuk a fájlunkat:
+>while, tehát amig a fájlomból a beolvasott sor változóba tudok helyezni újabb sort
+ - Beolvasunk egy sort
+ - Felbontjuk a sort
+ - A bontott darabokat a megfelelő változókba tároljuk
+ - Bontás után a szükséges adatokat konvertáljuk (pl stringről intre)
+ - Osztály példányaként elhelyezzük a **Vector**ban
+ 
+ >A **bontás** több részből is áll, hisz nem csak ketté kell szednünk az adot sort, emiatt előbb lekapjuk az elejét az **első tab**ig, majd a második felét, ami marad eltároljuk egy ideiglenes változóban.
+ >Ehhez hasonlóan a következő lépésben ismét bontjuk a **TAB** segitségével, ekkor viszont már mind a két darab egy tárolandó adat, tehát betehetem őket a megfelelő helyükre.
+ 
+ >TODO: Kép a bontásról
+ 
+ 
