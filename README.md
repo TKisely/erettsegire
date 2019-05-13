@@ -72,14 +72,23 @@ Ezt követően egy ciklus segitségével bejárjuk a fájlunkat:
  
  ### Tárolt adatok kiértékelése
 #### Maximum 
-
+A távolság alapján a leglogikusabb a maximum keresés. Ebben az esetben (amennyiben nem üres a tároló) vegyük az első elemét a vectorunknak és a hozzá tartozó ,,tav" paramétert. Kezdetben ez lesz a maximumunk. Járjuk be a teljes tárolónkat egy ciklus segítségével (használjuk a vector .size() függvényét, mely visszatér a vector aktuális méretével), és vizsgáljuk meg minden egyes tárolt futónál, hogy találunk-e nagyobb ,,tav" paramétert (if segítségével). Ha igen, akkor cseréljük az eddigi maximumot.
+> TODO: Kép
 #### Minimum
-
-#### Átlag
-
+Telejes mértékben megegyezik a maximum keresés logikájával, egyetlen különbség, hogy a vizsgálatnál nem nagyobbat keresünk, hanem kisebbet, és ha találtunk, akkor cserélünk.
+>TODO: Kép
 #### Összeg
-
+Az összeg számításához szükségünk van egy előzőleg létrehozott változóra, amiben majd magát az aktuális összeget tárolom. Ennek kezdeti értékként egy olyan számot kell adni, amely nem torzítja az eredményt.
+> Tehát melyik az a szám, amihez ha hozzádok egy X értéket, akkor magát az X-et kapom?
+Így az int osszeg változónk kezdeti értéke 0 lesz.
+Ezután a tárolónkat bejárva minden egyes eltárolt elem értékét hozzáadom az összeg aktuális értékéhez.
+>TODO: Kép
+#### Átlag
+Az átlag számításánál fel kell használnunk az összeget, így az előző részben használt logika is része. Egyetlen plusz teendő, hogy le kell osztani az összeget az összeadott értékek számával.
+>TODO: Kép
 #### Rendezés
+
+https://wiki.prog.hu/wiki/Buborékrendezés_(algoritmus)
 
 ## Hálózati ismeretek - gyakotlat
 
