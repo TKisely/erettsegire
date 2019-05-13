@@ -82,6 +82,13 @@ Ezt követően egy ciklus segitségével bejárjuk a fájlunkat:
 #### Rendezés
 
 ## Hálózati ismeretek - gyakotlat
+
+> https://www.youtube.com/watch?v=HI6IrzYiM64&list=PL8l6M-0GWNq3WPHS_QjzBXro0yypPdmO5
+
+> https://www.youtube.com/watch?v=N6m8pyuzjVU&t=2s
+
+> https://www.youtube.com/watch?v=0AZ1WgqMoIQ&t=156s 
+
 ### Kapcsolási ábra
 
 ### Szükséges modulok elhelyezése
